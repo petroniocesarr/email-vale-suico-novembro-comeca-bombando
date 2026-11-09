@@ -40,3 +40,4 @@ Você pode visualizar o layout responsivo diretamente no link do GitHub Pages:
 - `VALE-SUICO_EMAIL_NOVEMBRO-COMECA-BOMBANDO_DESKTOP.png`: Renderização completa Desktop.
 - `VALE-SUICO_EMAIL_NOVEMBRO-COMECA-BOMBANDO_MOBILE.png`: Renderização completa Mobile.
 - `VALE-SUICO_EMAIL_NOVEMBRO-COMECA-BOMBANDO.zip`: Pacote completo pronto para importação em ferramentas de disparo.
+
