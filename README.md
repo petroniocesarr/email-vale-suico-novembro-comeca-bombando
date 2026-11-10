@@ -26,7 +26,7 @@ Você pode visualizar o layout responsivo diretamente no link do GitHub Pages:
    - Headline harmônica em 2 linhas: *“Seu novembro merece muito mais Vale Suíço.”*
    - Texto de convite e CTAs finais destacados.
 4. **Rodapé:**
-   - Assinatura oficial Vale Suíço Resort, endereço e links institucionais com descadastro seguro.
+   - Assinatura oficial Vale Suíço Resort, endereço e links institucionais.
 
 ## 🔘 Botões de Conversão (CTAs)
 - `Reserve online 24h` *(Azul `#24418C` ou Amarelo `#FFED00` no fechamento)*

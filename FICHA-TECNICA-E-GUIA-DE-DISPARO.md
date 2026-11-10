@@ -39,4 +39,4 @@
 - [x] **CTAs Padronizados nos 3 Blocos:** `"Reserve online 24h"` (compra no site) e `"Reserve com o time do Vale"` (WhatsApp, botão verde `#259B40`), empilhados automaticamente no celular.
 - [x] **Sem Grade de Print nem Datas na Arte:** Atrações apresentadas sem prometer datas fixas durante todo o mês.
 - [x] **Restrições Comerciais e de Serviços:** Sem menção ou exibição de preço, desconto, Black Friday, SPA, vinhos ou fondue.
-- [x] **Rodapé Aprovado:** Inclui `"Programação sujeita a alteração sem aviso prévio."`, `"Consultar as atividades para o período da estadia."`, esclarecimento sobre reserva online 24h, assinatura Vale Suíço Resort e link de descadastro (`{{DESCADASTRAR}}`).
+- [x] **Rodapé Aprovado:** Inclui `"Programação sujeita a alteração sem aviso prévio."`, `"Consultar as atividades para o período da estadia."`, esclarecimento sobre reserva online 24h e assinatura Vale Suíço Resort com links oficiais.
