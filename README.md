@@ -16,7 +16,7 @@ Você pode visualizar o layout responsivo diretamente no link do GitHub Pages:
 ## 📐 Estrutura do Layout
 1. **Topo (Hero):**
    - **Headline & Subheadline acima da imagem:** *“NOVEMBRO COMEÇA BOMBANDO”* / *“Tem feriado, tem férias no meio da semana, tem fim de semana e calor pedindo um mergulho!”*
-   - **Fotografia Protagonista:** Família se divertindo no parque aquático com os botões de ação sobrepostos com borda branca e sombra projetada.
+   - **Fotografia Protagonista:** Menina se divertindo com boia na piscina de ondas com os botões de ação sobrepostos com borda branca e sombra projetada, fatiados para clique individual.
 2. **Meio (Destaques com Imagem Própria):**
    - *Holi Fest e Mini Chef para soltar a imaginação.* (Foto própria)
    - *Beach tênis e música ao vivo para entrar no ritmo.* (Foto própria)
